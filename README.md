@@ -1,2 +1,2 @@
-# todolists
-A simple todolist website
+# To-Do List
+A simple todolist website implemented in HTML, CSS and Javascript
